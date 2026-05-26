@@ -1,0 +1,16 @@
+C:\Users\rguad\source\repos\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.exe
+C:\Users\rguad\source\repos\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.deps.json
+C:\Users\rguad\source\repos\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.runtimeconfig.json
+C:\Users\rguad\source\repos\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.dll
+C:\Users\rguad\source\repos\calculadora\calculadora\bin\Debug\net8.0-windows\calculadora.pdb
+C:\Users\rguad\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.Form1.resources
+C:\Users\rguad\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.vbproj.GenerateResource.cache
+C:\Users\rguad\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rguad\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.AssemblyInfoInputs.cache
+C:\Users\rguad\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.AssemblyInfo.vb
+C:\Users\rguad\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.vbproj.CoreCompileInputs.cache
+C:\Users\rguad\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.dll
+C:\Users\rguad\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\refint\calculadora.dll
+C:\Users\rguad\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.pdb
+C:\Users\rguad\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\calculadora.genruntimeconfig.cache
+C:\Users\rguad\source\repos\calculadora\calculadora\obj\Debug\net8.0-windows\ref\calculadora.dll
