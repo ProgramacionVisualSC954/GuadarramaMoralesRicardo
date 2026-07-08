@@ -76,4 +76,30 @@
         End Try
     End Sub
 
+    Private Sub btnCalcularPago_Click(sender As Object, e As EventArgs) Handles btnCalcularPago.Click
+        Try
+            Dim montoPrestamo As Decimal
+            Dim numeroMeses As Integer
+
+            If Not Decimal.TryParse(txtMontoPrestamo.Text, montoPrestamo) Then
+                MessageBox.Show("Ingresa un monto de préstamo válido.", "Dato inválido", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+                Return
+            End If
+
+            If Not Integer.TryParse(txtMeses.Text, numeroMeses) Then
+                MessageBox.Show("Ingresa un número de meses válido.", "Dato inválido", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+                Return
+            End If
+
+            Dim pagoMensual As Decimal = Operaciones.CalcularPagoMensual(montoPrestamo, numeroMeses)
+            ListBox1.Items.Add($"Préstamo de {montoPrestamo:C} a {numeroMeses} meses -> Pago mensual: {pagoMensual:C}")
+
+        Catch ex As DivideByZeroException
+            MessageBox.Show(ex.Message, "Dato inválido", MessageBoxButtons.OK, MessageBoxIcon.Warning)
+
+        Catch ex As Exception
+            MessageBox.Show("Ocurrió un error al calcular el pago mensual.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        End Try
+    End Sub
+
 End Class
