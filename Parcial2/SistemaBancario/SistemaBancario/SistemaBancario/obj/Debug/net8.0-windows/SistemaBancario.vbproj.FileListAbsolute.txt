@@ -1,0 +1,16 @@
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net8.0-windows\SistemaBancario.FromBanco.resources
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net8.0-windows\SistemaBancario.vbproj.GenerateResource.cache
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net8.0-windows\SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net8.0-windows\SistemaBancario.AssemblyInfoInputs.cache
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net8.0-windows\SistemaBancario.AssemblyInfo.vb
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net8.0-windows\SistemaBancario.vbproj.CoreCompileInputs.cache
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\bin\Debug\net8.0-windows\SistemaBancario.exe
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\bin\Debug\net8.0-windows\SistemaBancario.deps.json
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\bin\Debug\net8.0-windows\SistemaBancario.runtimeconfig.json
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\bin\Debug\net8.0-windows\SistemaBancario.dll
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\bin\Debug\net8.0-windows\SistemaBancario.pdb
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net8.0-windows\SistemaBancario.dll
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net8.0-windows\refint\SistemaBancario.dll
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net8.0-windows\SistemaBancario.pdb
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net8.0-windows\SistemaBancario.genruntimeconfig.cache
+C:\Users\Noveno\source\repos\SistemaBancario\SistemaBancario\obj\Debug\net8.0-windows\ref\SistemaBancario.dll
