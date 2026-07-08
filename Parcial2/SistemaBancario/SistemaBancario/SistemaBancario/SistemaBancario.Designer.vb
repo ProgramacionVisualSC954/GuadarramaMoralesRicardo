@@ -44,7 +44,6 @@ Partial Class FromBanco
         txtMeses = New TextBox()
         Label8 = New Label()
         ListBox1 = New ListBox()
-        Button1 = New Button()
         btnCalcularPago = New Button()
         txtMontoPrestamo = New TextBox()
         Label6 = New Label()
@@ -94,7 +93,7 @@ Partial Class FromBanco
         ' lblEstadoCliente
         ' 
         lblEstadoCliente.AutoSize = True
-        lblEstadoCliente.Location = New Point(79, 201)
+        lblEstadoCliente.Location = New Point(18, 196)
         lblEstadoCliente.Name = "lblEstadoCliente"
         lblEstadoCliente.Size = New Size(0, 15)
         lblEstadoCliente.TabIndex = 1
@@ -208,7 +207,6 @@ Partial Class FromBanco
         GroupBox2.Controls.Add(txtMeses)
         GroupBox2.Controls.Add(Label8)
         GroupBox2.Controls.Add(ListBox1)
-        GroupBox2.Controls.Add(Button1)
         GroupBox2.Controls.Add(btnCalcularPago)
         GroupBox2.Controls.Add(txtMontoPrestamo)
         GroupBox2.Controls.Add(Label6)
@@ -243,15 +241,6 @@ Partial Class FromBanco
         ListBox1.Name = "ListBox1"
         ListBox1.Size = New Size(202, 94)
         ListBox1.TabIndex = 10
-        ' 
-        ' Button1
-        ' 
-        Button1.Location = New Point(57, 247)
-        Button1.Name = "Button1"
-        Button1.Size = New Size(147, 23)
-        Button1.TabIndex = 9
-        Button1.Text = "Retirar"
-        Button1.UseVisualStyleBackColor = True
         ' 
         ' btnCalcularPago
         ' 
@@ -327,7 +316,6 @@ Partial Class FromBanco
     Friend WithEvents txtMeses As TextBox
     Friend WithEvents Label8 As Label
     Friend WithEvents ListBox1 As ListBox
-    Friend WithEvents Button1 As Button
     Friend WithEvents btnCalcularPago As Button
     Friend WithEvents txtMontoPrestamo As TextBox
     Friend WithEvents Label6 As Label
