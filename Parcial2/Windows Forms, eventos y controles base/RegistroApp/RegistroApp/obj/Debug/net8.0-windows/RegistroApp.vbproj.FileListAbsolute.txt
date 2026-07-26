@@ -1,0 +1,16 @@
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.exe
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.deps.json
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.runtimeconfig.json
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.dll
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\bin\Debug\net8.0-windows\RegistroApp.pdb
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.Form1.resources
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.vbproj.GenerateResource.cache
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.AssemblyInfoInputs.cache
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.AssemblyInfo.vb
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.vbproj.CoreCompileInputs.cache
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.dll
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\refint\RegistroApp.dll
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.pdb
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\RegistroApp.genruntimeconfig.cache
+C:\Users\rguad\Downloads\RegistroApp\RegistroApp\RegistroApp\obj\Debug\net8.0-windows\ref\RegistroApp.dll
