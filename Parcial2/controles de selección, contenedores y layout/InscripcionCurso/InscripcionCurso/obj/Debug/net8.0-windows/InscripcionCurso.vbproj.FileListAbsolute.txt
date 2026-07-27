@@ -1,0 +1,28 @@
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\bin\Debug\net8.0-windows\InscripcionCurso.exe
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\bin\Debug\net8.0-windows\InscripcionCurso.deps.json
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\bin\Debug\net8.0-windows\InscripcionCurso.runtimeconfig.json
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\bin\Debug\net8.0-windows\InscripcionCurso.dll
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\bin\Debug\net8.0-windows\InscripcionCurso.pdb
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.AssemblyInfoInputs.cache
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.AssemblyInfo.vb
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.vbproj.CoreCompileInputs.cache
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.dll
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\obj\Debug\net8.0-windows\refint\InscripcionCurso.dll
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.pdb
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.genruntimeconfig.cache
+C:\Users\Noveno\Downloads\InscripcionCurso (1)\InscripcionCurso\obj\Debug\net8.0-windows\ref\InscripcionCurso.dll
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\bin\Debug\net8.0-windows\InscripcionCurso.exe
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\bin\Debug\net8.0-windows\InscripcionCurso.deps.json
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\bin\Debug\net8.0-windows\InscripcionCurso.runtimeconfig.json
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\bin\Debug\net8.0-windows\InscripcionCurso.dll
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\bin\Debug\net8.0-windows\InscripcionCurso.pdb
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.AssemblyInfoInputs.cache
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.AssemblyInfo.vb
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.vbproj.CoreCompileInputs.cache
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.dll
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\obj\Debug\net8.0-windows\refint\InscripcionCurso.dll
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.pdb
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\obj\Debug\net8.0-windows\InscripcionCurso.genruntimeconfig.cache
+C:\Users\Noveno\Downloads\InscripcionCurso\InscripcionCurso\obj\Debug\net8.0-windows\ref\InscripcionCurso.dll
