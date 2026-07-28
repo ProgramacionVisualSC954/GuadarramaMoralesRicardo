@@ -1,0 +1,14 @@
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\bin\Debug\net8.0-windows\EditorEnriquecido.exe
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\bin\Debug\net8.0-windows\EditorEnriquecido.deps.json
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\bin\Debug\net8.0-windows\EditorEnriquecido.runtimeconfig.json
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\bin\Debug\net8.0-windows\EditorEnriquecido.dll
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\bin\Debug\net8.0-windows\EditorEnriquecido.pdb
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\obj\Debug\net8.0-windows\EditorEnriquecido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\obj\Debug\net8.0-windows\EditorEnriquecido.AssemblyInfoInputs.cache
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\obj\Debug\net8.0-windows\EditorEnriquecido.AssemblyInfo.vb
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\obj\Debug\net8.0-windows\EditorEnriquecido.vbproj.CoreCompileInputs.cache
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\obj\Debug\net8.0-windows\EditorEnriquecido.dll
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\obj\Debug\net8.0-windows\refint\EditorEnriquecido.dll
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\obj\Debug\net8.0-windows\EditorEnriquecido.pdb
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\obj\Debug\net8.0-windows\EditorEnriquecido.genruntimeconfig.cache
+C:\Users\Noveno\Downloads\EditorEnriquecido\EditorEnriquecido\obj\Debug\net8.0-windows\ref\EditorEnriquecido.dll
